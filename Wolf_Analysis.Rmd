@@ -75,7 +75,7 @@ num_sightings <- indep_obs %>%
 ## Setting up Voronoi polygons
 ```{r}
 # Create Voronoi polygons using deldir package
-# REMOVING SING LE WOLF RECORDS IN THIS ONE!!! NOPE NEVERMIND!!
+# REMOVING SING LE WOLF  RECORDS IN THIS ONE!!! NOPE NEVERMIND!!
 
 
 indep_obs_avg_month <- indep_obs %>% 
